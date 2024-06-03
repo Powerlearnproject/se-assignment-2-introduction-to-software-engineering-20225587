@@ -11,6 +11,7 @@ Software engineering is a systematic, disciplined, and quantifiable approach to 
 
 
 What is software engineering, and how does it differ from traditional programming?
+
 Differences from Traditional Programming
 •	Scope: Traditional programming is primarily concerned with coding and debugging, while software engineering covers the entire software development lifecycle, from initial conception to deployment and maintenance.
 •	Approach: Software engineering employs structured methodologies and best practices to ensure the quality and efficiency of the software development process.
@@ -19,7 +20,9 @@ Differences from Traditional Programming
 
 
 Software Development Life Cycle (SDLC):
+
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
+
 Phases of the SDLC
 1.	Requirement Analysis: This phase involves gathering and analyzing the requirements of the software from stakeholders. Clear and detailed requirements are essential for the success of the project.
 o	Example: For the development of the New York Times website, extensive requirement analysis was conducted to understand the needs of journalists, editors, and readers. This included features for content management, real-time updates, and user-friendly navigation.
@@ -36,7 +39,9 @@ o	Example: The Apache HTTP Server project continuously maintains and updates its
 
 
 Agile vs. Waterfall Models:
+
 Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
+
 Agile Model
 •	Iterative and Incremental: Agile development is iterative, meaning it develops software in small, manageable increments.
 •	Flexibility: Agile methodologies are highly flexible and can adapt to changing requirements throughout the project lifecycle.
@@ -55,8 +60,9 @@ o	Example: NASA's software development for space missions often uses the Waterfa
 
 
 Requirements Engineering:
+
 What is requirements engineering? Describe the process and its importance in the software development lifecycle.
-What is Requirements Engineering?
+
 Requirements engineering is the process of defining, documenting, and maintaining the requirements of a software system. It involves understanding what the stakeholders need and ensuring that these needs are met in the final product (Sommerville, 2015).
 The Process
 1.	Elicitation: Gathering requirements from stakeholders through interviews, surveys, and observations.
@@ -74,8 +80,9 @@ Importance
 
 
 Software Design Principles:
+
 Explain the concept of modularity in software design. How does it improve maintainability and scalability of software systems?
-Concept of Modularity
+
 Modularity in software design refers to dividing a software system into smaller, manageable, and independent modules that can be developed, tested, and maintained separately. Each module represents a specific functionality of the system (Pressman & Maxim, 2014).
 Benefits
 •	Maintainability: Easier to update and modify individual modules without affecting the entire system.
@@ -89,6 +96,7 @@ o	Example: Libraries and frameworks such as React (JavaScript library) are reuse
 Testing in Software Engineering:
 
 Describe the different levels of software testing (unit testing, integration testing, system testing, acceptance testing). Why is testing crucial in software development?
+
 Levels of Software Testing
 1.	Unit Testing: Testing individual components or modules of the software to ensure they function correctly in isolation.
 o	Example: Google's testing framework, GoogleTest, is used to perform unit tests on various components of their software projects.
@@ -106,6 +114,7 @@ Importance of Testing
 Version Control Systems:
 
 What are version control systems, and why are they important in software development? Give examples of popular version control systems and their features.
+
 Version control systems (VCS) are tools that help manage changes to source code over time. They keep track of every modification made to the codebase, allowing multiple developers to collaborate effectively.
 Importance
 •	Collaboration: Enables multiple developers to work on the same project simultaneously without conflicts.
@@ -118,9 +127,11 @@ Examples
 •	Git: A distributed version control system known for its speed, efficiency, and branching capabilities (Git Documentation).
 •	Subversion (SVN): A centralized version control system that is easy to use and has a simple structure.
 •	Mercurial: A distributed VCS that is known for its performance and scalability.
+
 Software Project Management:
 
 Discuss the role of a software project manager. What are some key responsibilities and challenges faced in managing software projects?
+
 A software project manager is responsible for planning, executing, and overseeing software development projects to ensure they are completed on time, within budget, and to the required quality standards (Pressman & Maxim, 2014).
 Key Responsibilities
 •	Project Planning: Defining the project scope, objectives, and timelines.
@@ -135,9 +146,11 @@ Challenges
 •	Scope Creep: Managing changes in project scope without affecting timelines and budgets.
 •	Resource Constraints: Ensuring adequate resources are available and effectively utilized.
 •	Time Management: Keeping the project on schedule despite potential delays and obstacles.
+
 Software Maintenance:
 
 Define software maintenance and explain the different types of maintenance activities. Why is maintenance an essential part of the software lifecycle?
+
 Software maintenance involves modifying and updating software applications after delivery to correct faults, improve performance, or adapt to a changed environment (Sommerville, 2015).
 Types of Maintenance
 1.	Corrective Maintenance: Fixing bugs and defects discovered in the software.
@@ -152,9 +165,11 @@ Importance
 •	Longevity: Ensures the software remains functional and relevant over time.
 •	Performance: Improves the performance and efficiency of the software.
 •	User Satisfaction: Keeps users satisfied by continuously improving the software and fixing issues.
+
 Ethical Considerations in Software Engineering:
 
 What are some ethical issues that software engineers might face? How can software engineers ensure they adhere to ethical standards in their work?
+
 Ethical Issues
 •	Privacy: Ensuring that user data is protected and not misused.
 o	Example: Ensuring compliance with GDPR regulations in the development of an e-commerce website.
